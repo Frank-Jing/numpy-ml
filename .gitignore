@@ -176,3 +176,6 @@ TODO
 
 _build
 _static
+*.xml
+*.iml
+.idea
